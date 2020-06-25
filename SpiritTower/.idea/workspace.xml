@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SpiritTower" targetName="SpiritTower" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="482a55b5-0a94-4d88-9e2b-83fc437045f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1dThj8cqrSdXV3bHVvg91w7UU31" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpiritTower" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SpiritTower" TARGET_NAME="SpiritTower" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SpiritTower" RUN_TARGET_NAME="SpiritTower">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="482a55b5-0a94-4d88-9e2b-83fc437045f6" name="Default Changelist" comment="" />
+      <created>1592455124060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592455124060</updated>
+      <workItem from="1592455136287" duration="359000" />
+      <workItem from="1592458010153" duration="1020000" />
+      <workItem from="1592523129322" duration="1104000" />
+      <workItem from="1592525248063" duration="3718000" />
+      <workItem from="1592529914350" duration="2864000" />
+      <workItem from="1592588311456" duration="3175000" />
+      <workItem from="1592607557448" duration="3475000" />
+      <workItem from="1592612991750" duration="119000" />
+      <workItem from="1593058452274" duration="1820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1038" y="278" key="#Notifications" timestamp="1592526590672">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1038" y="278" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1592526590672" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592523254715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592523254715" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1592458327773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592458327773" />
+    <state width="746" height="208" key="GridCell.Tab.0.bottom" timestamp="1593060279058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593060279058" />
+    <state width="746" height="208" key="GridCell.Tab.0.center" timestamp="1593060279057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593060279057" />
+    <state width="746" height="208" key="GridCell.Tab.0.left" timestamp="1593060279057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593060279057" />
+    <state width="746" height="208" key="GridCell.Tab.0.right" timestamp="1593060279057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593060279057" />
+    <state x="144" y="57" width="1156" height="709" key="SettingsEditor" timestamp="1592607998056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="144" y="57" width="1156" height="709" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592607998056" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592590096687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592590096687" />
+  </component>
+</project>
